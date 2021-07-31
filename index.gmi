@@ -5,7 +5,7 @@
 ```
 
 # My posts
-=> pages/mutt.gmi Less sucky email
+=> pages/email.gmi Less sucky email
 => pages/tools.gmi My tools of trade
 
 # Home Projects
