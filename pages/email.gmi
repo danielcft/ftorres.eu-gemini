@@ -1,0 +1,28 @@
+# Less sucky e-mail
+Reading mail using Webmail sucks. It requires you to use a browser. 
+And most *modern* browsers are bloated and suck up memory and CPU.
+
+Reading mail using a fat GUI client sucks.
+Because Thunderbird (or Outlook) are buggy and try to do more than what they should.
+
+The least sucky way of doing mail, happens to be the one that requires more time to setup.
+
+# Email done right: The tool stack
+These tools will work in synergy and allow you to send, receive and search emails while being in full control of the process (and being able to customize it your own way, if you decide so)
+
+In parenthesis you will find the name of the tool for the job.
+=> Mail Transfer Agent (isync). Synchronize IMAP folders from your mail provider to your local filesystem.
+=> SMTP client (msmtp). Sends email. 
+=> Mail User Agent (mutt). Allows you to browse your email
+=> (Optional) Mail Indexer (notmuch). Index your email so that you can do quick searches.
+
+# Advantages of this system
+- Free and open source
+- Follows unix philosophy of separation of concerns. You will use small, lightweight and modular components.
+- Control over your emails. Emails will be treated as files on your local filesystem. 
+This allows you to backup emails as you would normally backup other files.
+- Snappy experience.
+- Low resource usage. Even on a low end device, you will be able to read your email, without any hipcups.
+
+# Disadvantages
+- Requires more work to setup. 

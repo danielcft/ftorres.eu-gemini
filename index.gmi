@@ -1,21 +1,20 @@
 ```
-     _             _      _       __ _
-  __| | __ _ _ __ (_) ___| | ___ / _| |_
- / _` |/ _` | '_ \| |/ _ \ |/ __| |_| __|
-| (_| | (_| | | | | |  __/ | (__|  _| |_
- \__,_|\__,_|_| |_|_|\___|_|\___|_|  \__|
+ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+( f | t | o | r | r | e | s | . | e | u )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  
 ```
 
-# Welcome to my gemini capsule 
-My name is Daniel Torres. I am a software developer currently living in Copenhagen, Denmark. 
-
-## Personal Projects
-=> https://github.com/danielcft/ynab-export-csv-extension A firefox extension that allows exporting bank transactions to YNAB budgets
-=> https://github.com/danielcft/vaccine-O-meter Display COVID vaccination status in a 8x8 LED
+# My posts
+=> pages/mutt.gmi Less sucky email
 => pages/tools.gmi My tools of trade
 
-## Contact me
-=> https://github.com/danielcft github
-=> https://linkedin.com/in/danielcft linkedin
+# Home Projects
+=> https://github.com/danielcft/ynab-export-csv-extension export YNAB 
+=> https://github.com/danielcft/vaccine-O-meter Display COVID vaccination status in a 8x8 LED
 
-You may reach me via email at  danieltorres AT fastmail DOT com
+# Gemini capsules that I like
+=> gemini://drewdevault.com drewdevault
+
+# Contact
+You may reach me by e-mail at d(AT)ftorres(DOT)eu
+=> https://github.com/danielcft github
