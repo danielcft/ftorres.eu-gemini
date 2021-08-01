@@ -4,13 +4,14 @@
  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  
 ```
 
-# My posts
+# Posts
 => pages/email.gmi Less sucky email
 => pages/tools.gmi My tools of trade
 
-# Home Projects
-=> https://github.com/danielcft/ynab-export-csv-extension export YNAB 
+# Projects
+=> https://github.com/danielcft/ynab-export-csv-extension YNAB exporter
 => https://github.com/danielcft/vaccine-O-meter Display COVID vaccination status in a 8x8 LED
+=> https://github.com/danielcft/personal-homepage-gemini this page
 
 # Gemini capsules that I like
 => gemini://drewdevault.com drewdevault
