@@ -16,6 +16,9 @@
 # Gemini capsules that I like
 => gemini://drewdevault.com drewdevault
 
+# Interesting reads
+=> https://danluu.com/mcilroy-unix/ UNIX
+
 # Contact
-You may reach me by e-mail at d(AT)ftorres(DOT)eu
+You may reach me by e-mail at d@*domain*.eu where *domain* is 'ftorres'
 => https://github.com/danielcft github
