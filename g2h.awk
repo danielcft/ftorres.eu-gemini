@@ -1,7 +1,4 @@
-## awk -f g2h.awk index.gmi > index.html
-## - or -
-## You can preview your .gmi with a little formatting
-## awk -f g2h.awh index.gmi | lynx -stdin
+#! /bin/awk -f 
 BEGIN{
  title="ftorres.eu"
  stylesheet="style.css"
