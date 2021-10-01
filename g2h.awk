@@ -1,7 +1,7 @@
 #! /bin/awk -f 
 BEGIN{
  title="ftorres.eu"
- stylesheet="style.css"
+ stylesheet="/style.css"
  inpre=false;
  inul=false;
  print"<!DOCTYPE html>\n<html lang='en'>\n<head>"
