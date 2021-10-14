@@ -1,14 +1,16 @@
 #! /bin/awk -f 
 BEGIN{
  title="ftorres.eu"
- stylesheet="/style.css"
+#stylesheet="/style.css"
  inpre=false;
  inul=false;
  print"<!DOCTYPE html>\n<html lang='en'>\n<head>"
  printf("<title>%s</title>\n", title)
  print"<meta name='viewport' content='width=device-width, initial-scale=1' />"
  print"<meta charset='UTF-8'>"
- printf("<link rel='stylesheet' type='text/css' href='%s'>", stylesheet)
+ 
+ # disabled style sheet 
+ # printf("<link rel='stylesheet' type='text/css' href='%s'>", stylesheet)
  print"</head>\n<body>"
 }
 
@@ -31,7 +33,7 @@ BEGIN{
    remx="";
    for(d=3;d <= NF;d++)
      remx=remx $(d) " ";
-   printf("<a href=\"%s\">%s</a><br>\n",$2,remx);
+     printf("<a href=\"%s\">%s</a><br>\n",$2,remx);
    next
 }
 

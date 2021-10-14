@@ -1,24 +1,42 @@
 ```
- / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
-( f | t | o | r | r | e | s | . | e | u )
- \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  
+         /|\  
+       /__| )
+     /____| )) 
+   /______| )))
+ /________|  )))          [https/gemini]://ftorres.eu
+         _|____))
+ \======| o o /
+~~~~~~~~~~~~~~~~~~~
 ```
+Welcome onboard fellow traveller. Come and have a look at my ship.
+You will find mostly stuff related to Computing/Unix. At least that is the plan - sorry if there isn't much content yet.
 
-# Posts
+# ~/log
+=> pages/read_gemlogs_on_kindle.gmi Read gemini pages on the Kindle
+=> pages/dumbphone_pt2.gmi Using a dumbphone part II
+=> pages/phone.gmi Using a dumbphone
 => pages/email.gmi Less sucky email
-=> pages/tools.gmi My tools of trade
+=> pages/tools.gmi Recommended software
 
-# Projects
-=> https://github.com/danielcft/ynab-export-csv-extension YNAB exporter
+# ~/scripts
+=> resources/gemdir-to-epub gemdir-to-epub: dump gemini page to epub format
 => https://github.com/danielcft/vaccine-O-meter Display COVID vaccination status in a 8x8 LED
 => https://github.com/danielcft/personal-homepage-gemini this page
 
-# Gemini capsules that I like
+# ~/gemini_links
+These are gemini capsules - you will need a gemini client to browse them.
 => gemini://drewdevault.com drewdevault
+=> gemini://gemini.circumlunar.space/~solderpunk solderpunk
+=> gemini://gemini.circumlunar.space/users/hundredrabbits hundredrabbits
+=> gemini://rawtext.club/~samhunter/rtc-tools/g2h.gmi simple awk script to generate .html from .gmi
 
-# Interesting reads
+# ~/http_links
 => https://danluu.com/mcilroy-unix/ UNIX
+=> https://danluu.com/ danluu
+=> https://github.com/dylanaraps/pure-sh-bible POSIX sh reference
+=> https://www.panix.com/~elflord/unix/sed.html sed reference
 
-# Contact
-You may reach me by e-mail at d@*domain*.eu where *domain* is 'ftorres'
-=> https://github.com/danielcft github
+# ~/contact
+e-mail: d@domain where domain is 'ftorres.eu'
+github.com/danielcft
+rawtext.club:~ftorres
